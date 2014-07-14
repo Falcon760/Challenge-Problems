@@ -1,0 +1,8 @@
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\Challenges\Challenges\bin\Debug\Challenges.exe.config
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\Challenges\Challenges\bin\Debug\Challenges.exe
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\Challenges\Challenges\bin\Debug\Challenges.pdb
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\Challenges\Challenges\obj\Debug\Challenges.exe
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\Challenges\Challenges\obj\Debug\Challenges.pdb
+C:\Users\Steve\Documents\GitHub\Challenge-Problems\Challenges\bin\Debug\Challenges.exe.config
+C:\Users\Steve\Documents\GitHub\Challenge-Problems\Challenges\obj\Debug\Challenges.exe
+C:\Users\Steve\Documents\GitHub\Challenge-Problems\Challenges\obj\Debug\Challenges.pdb

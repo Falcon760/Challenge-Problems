@@ -1,0 +1,5 @@
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\Challenges\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\Challenges\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\Challenges\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\Challenges\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\Steve\Documents\Visual Studio 2013\Projects\Challenges\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
