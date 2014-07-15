@@ -4,3 +4,9 @@ C:\Users\Steve\Documents\Visual Studio 2013\Projects\Challenges\ConsoleApplicati
 C:\Users\Steve\Documents\Visual Studio 2013\Projects\Challenges\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
 C:\Users\Steve\Documents\Visual Studio 2013\Projects\Challenges\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
 C:\Users\Steve\Documents\Visual Studio 2013\Projects\Challenges\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Steve\Documents\GitHub\Challenge-Problems\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Steve\Documents\GitHub\Challenge-Problems\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Steve\Documents\GitHub\Challenge-Problems\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Steve\Documents\GitHub\Challenge-Problems\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Steve\Documents\GitHub\Challenge-Problems\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Steve\Documents\GitHub\Challenge-Problems\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

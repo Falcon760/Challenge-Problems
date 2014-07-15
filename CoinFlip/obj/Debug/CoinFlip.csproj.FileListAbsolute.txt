@@ -1,0 +1,5 @@
+C:\Users\Steve\Documents\GitHub\Challenge-Problems\CoinFlip\bin\Debug\CoinFlip.exe.config
+C:\Users\Steve\Documents\GitHub\Challenge-Problems\CoinFlip\bin\Debug\CoinFlip.exe
+C:\Users\Steve\Documents\GitHub\Challenge-Problems\CoinFlip\bin\Debug\CoinFlip.pdb
+C:\Users\Steve\Documents\GitHub\Challenge-Problems\CoinFlip\obj\Debug\CoinFlip.exe
+C:\Users\Steve\Documents\GitHub\Challenge-Problems\CoinFlip\obj\Debug\CoinFlip.pdb

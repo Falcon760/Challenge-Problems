@@ -4,3 +4,9 @@ C:\Users\Steve\Documents\Visual Studio 2013\Projects\Challenges\Hangman\bin\Debu
 C:\Users\Steve\Documents\Visual Studio 2013\Projects\Challenges\Hangman\obj\Debug\Hangman.csprojResolveAssemblyReference.cache
 C:\Users\Steve\Documents\Visual Studio 2013\Projects\Challenges\Hangman\obj\Debug\Hangman.exe
 C:\Users\Steve\Documents\Visual Studio 2013\Projects\Challenges\Hangman\obj\Debug\Hangman.pdb
+C:\Users\Steve\Documents\GitHub\Challenge-Problems\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\Steve\Documents\GitHub\Challenge-Problems\Hangman\bin\Debug\Hangman.exe
+C:\Users\Steve\Documents\GitHub\Challenge-Problems\Hangman\bin\Debug\Hangman.pdb
+C:\Users\Steve\Documents\GitHub\Challenge-Problems\Hangman\obj\Debug\Hangman.csprojResolveAssemblyReference.cache
+C:\Users\Steve\Documents\GitHub\Challenge-Problems\Hangman\obj\Debug\Hangman.exe
+C:\Users\Steve\Documents\GitHub\Challenge-Problems\Hangman\obj\Debug\Hangman.pdb

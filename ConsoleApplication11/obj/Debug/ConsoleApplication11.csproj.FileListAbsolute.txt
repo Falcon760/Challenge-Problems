@@ -3,3 +3,8 @@ C:\Users\Steve\Documents\Visual Studio 2013\Projects\Challenges\ConsoleApplicati
 C:\Users\Steve\Documents\Visual Studio 2013\Projects\Challenges\ConsoleApplication11\bin\Debug\ConsoleApplication11.pdb
 C:\Users\Steve\Documents\Visual Studio 2013\Projects\Challenges\ConsoleApplication11\obj\Debug\ConsoleApplication11.exe
 C:\Users\Steve\Documents\Visual Studio 2013\Projects\Challenges\ConsoleApplication11\obj\Debug\ConsoleApplication11.pdb
+C:\Users\Steve\Documents\GitHub\Challenge-Problems\ConsoleApplication11\bin\Debug\ConsoleApplication11.exe.config
+C:\Users\Steve\Documents\GitHub\Challenge-Problems\ConsoleApplication11\bin\Debug\ConsoleApplication11.exe
+C:\Users\Steve\Documents\GitHub\Challenge-Problems\ConsoleApplication11\bin\Debug\ConsoleApplication11.pdb
+C:\Users\Steve\Documents\GitHub\Challenge-Problems\ConsoleApplication11\obj\Debug\ConsoleApplication11.exe
+C:\Users\Steve\Documents\GitHub\Challenge-Problems\ConsoleApplication11\obj\Debug\ConsoleApplication11.pdb
