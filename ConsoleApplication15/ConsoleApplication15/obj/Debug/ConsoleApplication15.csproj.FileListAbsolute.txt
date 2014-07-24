@@ -1,0 +1,10 @@
+C:\Users\Steven\Documents\GitHub\Challenge-Problems\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe.config
+C:\Users\Steven\Documents\GitHub\Challenge-Problems\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe
+C:\Users\Steven\Documents\GitHub\Challenge-Problems\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.pdb
+C:\Users\Steven\Documents\GitHub\Challenge-Problems\ConsoleApplication15\ConsoleApplication15\bin\Debug\EntityFramework.dll
+C:\Users\Steven\Documents\GitHub\Challenge-Problems\ConsoleApplication15\ConsoleApplication15\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Steven\Documents\GitHub\Challenge-Problems\ConsoleApplication15\ConsoleApplication15\bin\Debug\EntityFramework.xml
+C:\Users\Steven\Documents\GitHub\Challenge-Problems\ConsoleApplication15\ConsoleApplication15\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Steven\Documents\GitHub\Challenge-Problems\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Documents\GitHub\Challenge-Problems\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.exe
+C:\Users\Steven\Documents\GitHub\Challenge-Problems\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.pdb
